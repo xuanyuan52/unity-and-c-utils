@@ -1,2 +1,2 @@
-# unity-and-c-utils
-some of unity or c# utils class
+# unity-and-c#-utils
+Some of unity or c# utils class
